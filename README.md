@@ -5,4 +5,6 @@ Ass-02: https://github.com/2303A52268/Explainable-AI-2268/blob/main/EAI_Ass_02.i
 
 Ass-03: https://github.com/2303A52268/Explainable-AI-2268/blob/main/EAI_Ass_03.ipynb
 
-Ass-04: 
+Ass-04: https://github.com/2303A52268/Explainable-AI-2268/blob/main/EAI_Ass_04.ipynb
+
+
